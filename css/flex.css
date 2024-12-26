@@ -1,0 +1,30 @@
+
+        .flex-container {
+            display: flex;
+
+            justify-content: space-around;
+
+            align-items: center;
+
+            height: 100vh;
+
+            background-color: #f0f0f0;
+        }
+
+        .flex-item {
+            display: flex;
+            /* Flexbox active */
+            justify-content: center;
+            /* Horizontally center */
+            align-items: center;
+            /* Vertically center */
+            height: 300px;
+            width: 300px;
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+  
